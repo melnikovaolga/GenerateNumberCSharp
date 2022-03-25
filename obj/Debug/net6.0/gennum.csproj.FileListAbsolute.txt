@@ -1,0 +1,15 @@
+/Users/olgamelnikova/Desktop/projects/gennum/bin/Debug/net6.0/gennum
+/Users/olgamelnikova/Desktop/projects/gennum/bin/Debug/net6.0/gennum.deps.json
+/Users/olgamelnikova/Desktop/projects/gennum/bin/Debug/net6.0/gennum.runtimeconfig.json
+/Users/olgamelnikova/Desktop/projects/gennum/bin/Debug/net6.0/gennum.dll
+/Users/olgamelnikova/Desktop/projects/gennum/bin/Debug/net6.0/ref/gennum.dll
+/Users/olgamelnikova/Desktop/projects/gennum/bin/Debug/net6.0/gennum.pdb
+/Users/olgamelnikova/Desktop/projects/gennum/obj/Debug/net6.0/gennum.csproj.AssemblyReference.cache
+/Users/olgamelnikova/Desktop/projects/gennum/obj/Debug/net6.0/gennum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgamelnikova/Desktop/projects/gennum/obj/Debug/net6.0/gennum.AssemblyInfoInputs.cache
+/Users/olgamelnikova/Desktop/projects/gennum/obj/Debug/net6.0/gennum.AssemblyInfo.cs
+/Users/olgamelnikova/Desktop/projects/gennum/obj/Debug/net6.0/gennum.csproj.CoreCompileInputs.cache
+/Users/olgamelnikova/Desktop/projects/gennum/obj/Debug/net6.0/gennum.dll
+/Users/olgamelnikova/Desktop/projects/gennum/obj/Debug/net6.0/ref/gennum.dll
+/Users/olgamelnikova/Desktop/projects/gennum/obj/Debug/net6.0/gennum.pdb
+/Users/olgamelnikova/Desktop/projects/gennum/obj/Debug/net6.0/gennum.genruntimeconfig.cache
